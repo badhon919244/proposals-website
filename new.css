@@ -1,0 +1,30 @@
+body {
+    font-family: 'Lora';
+    font-size: 17px;
+    line-height: 1.5;
+    background-color: #fff;
+    background-image: url(valentine-s-day-sale-poster-with-cute-heart-and-valentines-day-gift-box-on-pink-background-promotion-and-shopping-template-for-love-and-valentine-s-day-concept-vector.jpg);
+    background-attachment: scroll;
+    
+}
+.box {
+    background: #e91e63;
+    padding: 60px 60px;
+    color: #fff;
+    width: 50%;
+    text-align: center;
+    margin: 25vh auto;
+    position: relative;
+    box-shadow: 0px 5px 10px rgba(0, 0, 0, 0.5);
+}
+.box h3 {
+    font-size: 30px;
+    font-weight: 400;
+    text-transform: uppercase;
+    margin: 5px;
+}
+.box p {
+    font-size: 20px;
+    font-weight: 400;
+}
+
